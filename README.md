@@ -1,4 +1,5 @@
-# scrum
+# An Overview of Scrum :+1
+
 How to scrum via PluralSight Course Notes
 
 
