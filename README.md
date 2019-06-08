@@ -3,6 +3,5 @@
 ## How to scrum via PluralSight Course Notes
 
 
-### This is an edit for the thing:
-- [ ] This is a box
-- [x] This is a checked box
+### What is "Scrum":
+* Scrum is a framework that is used by teams in high agile environments that need to adapt to change quikcly, effectively, and in the most efficient way possible. 
