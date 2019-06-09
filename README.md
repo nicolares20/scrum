@@ -43,7 +43,7 @@ The Scrum Team in any scrum process is divided up into 3 different categories:
   
 * **Some Sprint Notes**:
  * Predictability of a sprint is the goal, not velocity
-   * Velocity: the amount of items completed in a given period of time
+   * **Velocity**: the amount of items completed in a given period of time
  * Add Business Value: have a shippable product due a few sprints before finalized date of product release, but have added feature sets that add 'less' value tothe product at the final 2 sprints.
    * i.e. make it look pretty at the end.
    
