@@ -15,7 +15,7 @@
 ### The Scrum Team:
 The Scrum Team in any scrum process is divided up into 3 different categories:
 1. **Product Owner**: usually hired by a client or business, the source of knowledge for the product who defines and communicates the product vision with the rest of the team, and ensures the backlog accurately represents the product vision at hand
-* Product Backlog: the list of items necessary for the creation and definition of the product
+* **Product Backlog**: the list of items necessary for the creation and definition of the product
 2. **Scrum Master**: ensures that all members are sticking to their tasks, and is there to help remove any blockers or impediments for the dev team, while maintaining strict transparency and communication with the product owner.
 3. **Dev Team**: the developers who do the work and execution of the product by building out the features and enhancements defined by the product owner. Also architect, code, and test all items placed on the product log.
 
@@ -46,3 +46,34 @@ The Scrum Team in any scrum process is divided up into 3 different categories:
    * Velocity: the amount of items completed in a given period of time
  * Add Business Value: have a shippable product due a few sprints before finalized date of product release, but have added feature sets that add 'less' value tothe product at the final 2 sprints.
    * i.e. make it look pretty at the end.
+   
+### Fundamentals of an Ideal Product Backlog:
+* **Product Backlog**: 
+  * An ordered list of everything that might be needed in the product.
+  * The single source of requirements for any changes to be made to the product.
+  
+* Product Vision: high level strategy of the goals for your product.
+* Product Backlog: the tactical plan to achieve that strategy.
+
+* **Prioritization Strategy**:
+1. Technical Necessity: how necessary this feature or item is to be completed for other parts of the project.
+2. Risk: amount of unknown risk associated with each item.
+* The higher the risk, the higher the priority: Higher risk items will require more time to tackle, allowing you more time to solve any blocks along the way without leaving it to the end of the sprint.
+3. Business Value: expected yield of value from overall product
+Note: Business value becomes a higher priority as you get closer to the end of the sprint, as technical necessity items should have already been built out, and it becomes too risky to work on riskier items near the end of the sprint.
+
+* **Structuring the Backlog**:
+1. Opening Game: setting up the environment and all the tools necessary for completing the product.
+2. Middle Game: beginning work and execution phase.
+3. End Game: getting ready to deploy and maintanence related items.
+
+* Backlog Refinement: 1 hour a week meeting to discuss what is happening with current sprint, as well as using this info in relation to the upcoing sprint as well. 
+
+* **Backlog Visualizations**:
+  * Burning Chart: a chart that visualizes shows the amount of items left to knock out on a product.
+
+* **Notes on Product Backlog**:
+  * Only give full detail and effort to what is needed at the next present moment; everything else later down the line can be viewed with a brief summary/overview/description.
+  * Add improvements to internal team processes as an event to the sprint backlog items as it requires some time needed in place of executing.
+  * Plan for a Spike:
+* **Spike**: times when research needs to be done to further delve into the complexity of an item or answer any supplemental questions which may come about 
